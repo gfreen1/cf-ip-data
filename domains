@@ -1,3 +1,17 @@
+workers.cloudflare.com#********👇联通分割线👇********
+cucc.cloudflare.seeck.cn
+cu.090227.xyz:2096
+ctcc.cloudflare.seeck.cn#********👇电信分割线👇********
+ct.090227.xyz:8443
+cmcc.cloudflare.seeck.cn#********👇移动分割线👇********
+cm.090227.xyz:2087
+cloudflare.seeck.cn#********👇聚合分割线👇********
+cf.090227.xyz:2053
+cf.090227.xyz
+cf.tencentapp.cn
+cloudflare-dl.byoip.top
+cf.877774.xyz
+saas.sin.fan
 cf.090227.xyz#********👇域名分割线👇********
 cloudflare.lingyucat.com
 cf.130519.xyz
@@ -59,7 +73,6 @@ blog.cloudflare.com
 developers.cloudflare.com
 radar.cloudflare.com
 one.dash.cloudflare.com
-workers.cloudflare.com
 pages.cloudflare.com
 cloudflare.19931110.xyz
 cf.cnae.top
