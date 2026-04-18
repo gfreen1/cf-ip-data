@@ -1,7 +1,5 @@
 #自用api
-https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/zy,
-https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/ip/ziyong/ziyong1-px.txt,
-https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/ip/ziyong/ziyong1-px.txt,
+https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/zy,https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/ip/ziyong/ziyong1-px.txt,https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/ip/ziyong/ziyong1-px.txt,
 
 #gfreen1为github账号变量名，把“模板”换成微信号为定制，删除回车
 https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/dz,
