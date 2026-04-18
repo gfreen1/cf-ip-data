@@ -8,6 +8,7 @@ https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/dz,https://
 
 #未删除回车
 
+https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/dz,
 https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/ip/模板/模板1-px.txt,
 https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/ip/模板/模板1-px.txt,
 https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/lt,
