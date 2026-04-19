@@ -1,10 +1,10 @@
 #joey定制自用api
 
-https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/ip/ziyong/ziyong1-ip.txt,https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/ip/ziyong/ziyong1-px.txt,https://cf.090227.xyz/cu?ips=5,https://cf.090227.xyz/ct?ips=5,https://cf.090227.xyz/cmcc?ips=5,https://twilight-forest-f2ce.cfp-e9c.workers.dev/edgetunnel.txt
+https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/ip/ziyong/ziyong1-ip.txt,https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/ip/ziyong/ziyong1-px.txt,https://cf.090227.xyz/cu?ips=5,https://cf.090227.xyz/ct?ips=5,https://cf.090227.xyz/cmcc?ips=5,https://twilight-forest-f2ce.cfp-e9c.workers.dev/cf-custom-port?port=8443,https://twilight-forest-f2ce.cfp-e9c.workers.dev/cf-custom-port?port=2053,https://twilight-forest-f2ce.cfp-e9c.workers.dev/cf-custom-port?port=2083,https://twilight-forest-f2ce.cfp-e9c.workers.dev/cf-custom-port?port=2087,https://twilight-forest-f2ce.cfp-e9c.workers.dev/cf-custom-port?port=2096
 
 #joey定制gfreen1为github账号变量名，把“模板”换成微信号为定制，5为数量，删除回车
 
-https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/ip/模板/模板1-ip.txt,https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/ip/模板/模板1-px.txt,https://cf.090227.xyz/cu?ips=5,https://cf.090227.xyz/ct?ips=5,https://cf.090227.xyz/cmcc?ips=5,https://twilight-forest-f2ce.cfp-e9c.workers.dev/edgetunnel.txt
+https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/ip/模板/模板1-ip.txt,https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/ip/模板/模板1-px.txt,https://cf.090227.xyz/cu?ips=5,https://cf.090227.xyz/ct?ips=5,https://cf.090227.xyz/cmcc?ips=5,https://twilight-forest-f2ce.cfp-e9c.workers.dev/cf-custom-port?port=8443,https://twilight-forest-f2ce.cfp-e9c.workers.dev/cf-custom-port?port=2053,https://twilight-forest-f2ce.cfp-e9c.workers.dev/cf-custom-port?port=2083,https://twilight-forest-f2ce.cfp-e9c.workers.dev/cf-custom-port?port=2087,https://twilight-forest-f2ce.cfp-e9c.workers.dev/cf-custom-port?port=2096
 
 
 #cm未删除回车自用
@@ -17,6 +17,13 @@ https://cf.090227.xyz/ct?ips=5
 https://cf.090227.xyz/cmcc?ips=5
 https://twilight-forest-f2ce.cfp-e9c.workers.dev/edgetunnel.txt
 
+
+https://twilight-forest-f2ce.cfp-e9c.workers.dev/cf-custom-port?port=8443
+https://twilight-forest-f2ce.cfp-e9c.workers.dev/cf-custom-port?port=2053
+https://twilight-forest-f2ce.cfp-e9c.workers.dev/cf-custom-port?port=2083
+https://twilight-forest-f2ce.cfp-e9c.workers.dev/cf-custom-port?port=2087
+https://twilight-forest-f2ce.cfp-e9c.workers.dev/cf-custom-port?port=2096
+
 #cm未删除回车定制
 
 173.245.58.84:8443#********👇定制分割线👇********
@@ -27,6 +34,13 @@ https://cf.090227.xyz/cu?ips=5
 https://cf.090227.xyz/ct?ips=5
 https://cf.090227.xyz/cmcc?ips=5
 https://twilight-forest-f2ce.cfp-e9c.workers.dev/edgetunnel.txt
+
+
+https://twilight-forest-f2ce.cfp-e9c.workers.dev/cf-custom-port?port=8443
+https://twilight-forest-f2ce.cfp-e9c.workers.dev/cf-custom-port?port=2053
+https://twilight-forest-f2ce.cfp-e9c.workers.dev/cf-custom-port?port=2083
+https://twilight-forest-f2ce.cfp-e9c.workers.dev/cf-custom-port?port=2087
+https://twilight-forest-f2ce.cfp-e9c.workers.dev/cf-custom-port?port=2096
 
 #草稿-未删除回车自用
 
