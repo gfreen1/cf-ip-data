@@ -79,3 +79,10 @@ https://cf.776771.xyz/US,
 https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/KR,
 https://cf.776771.xyz/KR,
 https://raw.githubusercontent.com/gfreen1/cf-ip-data/refs/heads/main/domains
+
+#优选ip地址（快）
+https://ip.164746.xyz/
+https://ip.v2too.top/
+https://api.uouin.com/cloudflare.html
+（慢）
+https://www.wetest.vip/page/cloudflare/address_v4.html
