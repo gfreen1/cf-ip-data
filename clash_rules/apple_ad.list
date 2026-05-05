@@ -125,12 +125,6 @@ DOMAIN,logs.amap.com
 DOMAIN,mum.alibabachengdun.com
 DOMAIN,client-upload.cn-shanghai.log.aliyuncs.com
 DOMAIN,impaas-for-client.cn-shanghai.log.aliyuncs.com
-DOMAIN,https://mpaasapi.mpaas.cn-hangzhou.aliyuncs.com/mgw.htm
-DOMAIN,https://appconf.mail.163.com/mmad
-DOMAIN,https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.mshow
-DOMAIN,https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show
-DOMAIN,https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.index.cn
-DOMAIN,https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.click.reply.cn
 DOMAIN,p3-sign.douyinpic.com
 DOMAIN,sd-gl.xinqiucc.com
 DOMAIN,sentry.d.xiaomi.net
@@ -144,3 +138,9 @@ DOMAIN,adash.man.aliyuncs.com
 DOMAIN,ten.sobot.com
 DOMAIN,canvas-cdn.gdt.qq.com
 DOMAIN,adx-data-u1.ubixioe.com
+DOMAIN,https://mpaasapi.mpaas.cn-hangzhou.aliyuncs.com/mgw.htm
+DOMAIN,https://appconf.mail.163.com/mmad
+DOMAIN,https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.mshow
+DOMAIN,https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show
+DOMAIN,https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.index.cn
+DOMAIN,https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.click.reply.cn
